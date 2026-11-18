@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Complication Bridge</string>
+    <string name="header_title">Mi Complication Bridge</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="btn_unfreeze_now">Unfreeze</string>
+    <string name="toggle_bridge_title">Keep-Alive Bridge</string>
+    <string name="toggle_bridge_desc">Holds a foreground binding to the Xiaomi watch-face service so complications keep updating</string>
+    <string name="notif_channel_name">Mi Complication Bridge Keep-Alive</string>
+    <string name="notif_channel_desc">Keeps Xiaomi complications updating on WFF watch faces</string>
+    <string name="notif_running_title">Mi Complication Bridge</string>
+    <string name="notif_running_text">Keeping Xiaomi complications alive</string>
+</resources>
